@@ -71,9 +71,9 @@ body {
 
 /* renamed from .circle */
 .deal-ring{
-    position: relative;
+    position: absolute;
     top: 200px;
-    left: 1420px;
+    left: 1200px;
     width: 110px;
 }
 .chatbot-card {
